@@ -36,6 +36,8 @@ public class CrawlerTest {
 
         try {
             assertNotNull( crawls.searchAlgorithmWithIdDFS(1002));
+            assertNotNull( crawls.searchAlgorithmWithIdDFS(1002));
+
         } catch (IOException e) {
             e.printStackTrace();
         }
