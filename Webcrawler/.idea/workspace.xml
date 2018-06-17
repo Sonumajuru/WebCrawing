@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43e2535-d889-44d4-af04-63b9b5cbc097" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,18 +76,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MockitoTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
+      <file leaf-file-name="CrawlerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="116" column="52" selection-start-line="116" selection-start-column="52" selection-end-line="116" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
-                <element signature="e#2316#2317#0" expanded="true" />
-                <element signature="e#2384#2385#0" expanded="true" />
-                <element signature="method#verifySpyEffectOfRealInstanceOfGetMusicArtistName#0;class#MockitoTest#0" />
-              </folding>
+            <state relative-caret-position="465">
+              <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -428,9 +422,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerParameterizedTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/tci/crawling/ExceptionCrawlerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tci/crawling/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tci/crawling/Crawler.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerTest.java" />
       </list>
     </option>
   </component>
@@ -809,7 +803,7 @@
       <workItem from="1528018923067" duration="12134000" />
       <workItem from="1528629362827" duration="10000" />
       <workItem from="1529245256933" duration="2911000" />
-      <workItem from="1529252680747" duration="555000" />
+      <workItem from="1529252680747" duration="905000" />
     </task>
     <servers />
   </component>
@@ -846,7 +840,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107012000" />
+    <option name="totallyTimeSpent" value="107362000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1074,20 +1068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/ExceptionCrawlerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tci/crawling/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1134,15 +1114,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="116" column="52" selection-start-line="116" selection-start-column="52" selection-end-line="116" selection-end-column="52" />
+        <state relative-caret-position="390">
+          <caret line="115" column="5" lean-forward="true" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
             <element signature="e#2316#2317#0" expanded="true" />
             <element signature="e#2384#2385#0" expanded="true" />
             <element signature="method#verifySpyEffectOfRealInstanceOfGetMusicArtistName#0;class#MockitoTest#0" />
+            <element signature="method#verifyMockitoForGetMusicArtistName#0;class#MockitoTest#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/ExceptionCrawlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
         </state>
       </provider>
     </entry>
