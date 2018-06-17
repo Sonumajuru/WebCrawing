@@ -114,8 +114,8 @@
       <file leaf-file-name="MockitoTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
+            <state relative-caret-position="425">
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
@@ -853,7 +853,7 @@
       <workItem from="1527962156043" duration="1360000" />
       <workItem from="1528018923067" duration="12134000" />
       <workItem from="1528629362827" duration="10000" />
-      <workItem from="1529245256933" duration="1423000" />
+      <workItem from="1529245256933" duration="2259000" />
     </task>
     <servers />
   </component>
@@ -890,7 +890,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104969000" />
+    <option name="totallyTimeSpent" value="105805000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -903,7 +903,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32889965" />
@@ -1179,8 +1178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
+        <state relative-caret-position="425">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
