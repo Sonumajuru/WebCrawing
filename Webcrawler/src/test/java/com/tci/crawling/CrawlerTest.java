@@ -35,7 +35,7 @@ public class CrawlerTest {
     public void shouldAllowToRetrieve_aSearchForAParticularID() {
 
         try {
-            assertNotNull( crawls.searchAlgorithmWithIdDFS(102));
+            assertNotNull( crawls.searchAlgorithmWithIdDFS(1002));
         } catch (IOException e) {
             e.printStackTrace();
         }
