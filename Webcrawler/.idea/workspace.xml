@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43e2535-d889-44d4-af04-63b9b5cbc097" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -95,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Crawler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Crawler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tci/crawling/Crawler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
+            <state relative-caret-position="390">
               <caret line="199" column="23" selection-start-line="199" selection-start-column="16" selection-end-line="199" selection-end-column="23" />
               <folding>
                 <element signature="docComment;field#depth#0;class#Crawler#0" />
@@ -108,6 +106,22 @@
                 <element signature="e#2477#2505#0" />
                 <element signature="method#searchAlgorithmWithIdDFS#0;class#Crawler#0" />
                 <element signature="method#getJSON#0;class#Crawler#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MockitoTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="116" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
+                <element signature="e#2316#2317#0" expanded="true" />
+                <element signature="e#2384#2385#0" expanded="true" />
+                <element signature="method#verifySpyEffectOfRealInstanceOfGetMusicArtistName#0;class#MockitoTest#0" />
               </folding>
             </state>
           </provider>
@@ -839,7 +853,7 @@
       <workItem from="1527962156043" duration="1360000" />
       <workItem from="1528018923067" duration="12134000" />
       <workItem from="1528629362827" duration="10000" />
-      <workItem from="1529245256933" duration="241000" />
+      <workItem from="1529245256933" duration="1031000" />
     </task>
     <servers />
   </component>
@@ -876,7 +890,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103787000" />
+    <option name="totallyTimeSpent" value="104577000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -901,11 +915,11 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2756953" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32889965" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49713877" weight="0.28899637" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49713877" visible="true" weight="0.28848484" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
-      <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.32969698" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32969698" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.4858657" weight="0.3297568" />
       <window_info anchor="right" id="Gradle" order="7" sideWeight="0.47435898" weight="0.19957082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -956,11 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding>
-            <element signature="method#givenBean_whenHasValue_thenCorrect#0;class#CrawlerTest#0" />
-            <element signature="method#shouldAllowToRetrieve_aSearchForAParticularSearchWord#0;class#CrawlerTest#0" />
-            <element signature="method#shouldAllowToRetrieve_aSearchForAParticularID#0;class#CrawlerTest#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -989,15 +998,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/CrawlerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="method#givenBean_whenHasValue_thenCorrect#0;class#CrawlerTest#0" />
-            <element signature="method#shouldAllowToRetrieve_aSearchForAParticularSearchWord#0;class#CrawlerTest#0" />
-            <element signature="method#shouldAllowToRetrieve_aSearchForAParticularID#0;class#CrawlerTest#0" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/DummyClassTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tci/crawling/DummyClass.java" />
@@ -1132,28 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
-            <element signature="e#2316#2317#0" expanded="true" />
-            <element signature="e#2384#2385#0" expanded="true" />
-            <element signature="method#verifySpyEffectOfRealInstanceOfGetMusicArtistName#0;class#MockitoTest#0" />
-            <element signature="method#verifyMockitoForGetMusicArtistName#0;class#MockitoTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tci/crawling/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1177,7 +1156,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tci/crawling/Crawler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
+        <state relative-caret-position="390">
           <caret line="199" column="23" selection-start-line="199" selection-start-column="16" selection-end-line="199" selection-end-column="23" />
           <folding>
             <element signature="docComment;field#depth#0;class#Crawler#0" />
@@ -1187,6 +1166,27 @@
             <element signature="e#2477#2505#0" />
             <element signature="method#searchAlgorithmWithIdDFS#0;class#Crawler#0" />
             <element signature="method#getJSON#0;class#Crawler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="116" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
+            <element signature="e#2316#2317#0" expanded="true" />
+            <element signature="e#2384#2385#0" expanded="true" />
+            <element signature="method#verifySpyEffectOfRealInstanceOfGetMusicArtistName#0;class#MockitoTest#0" />
           </folding>
         </state>
       </provider>
