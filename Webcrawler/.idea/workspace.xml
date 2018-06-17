@@ -114,8 +114,8 @@
       <file leaf-file-name="MockitoTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="116" selection-end-column="52" />
+            <state relative-caret-position="410">
+              <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
@@ -853,7 +853,7 @@
       <workItem from="1527962156043" duration="1360000" />
       <workItem from="1528018923067" duration="12134000" />
       <workItem from="1528629362827" duration="10000" />
-      <workItem from="1529245256933" duration="1031000" />
+      <workItem from="1529245256933" duration="1423000" />
     </task>
     <servers />
   </component>
@@ -890,7 +890,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104577000" />
+    <option name="totallyTimeSpent" value="104969000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -915,10 +915,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2756953" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32889965" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49713877" visible="true" weight="0.28848484" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49713877" visible="true" weight="0.28848484" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32969698" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.4858657" weight="0.3297568" />
       <window_info anchor="right" id="Gradle" order="7" sideWeight="0.47435898" weight="0.19957082" />
@@ -1179,8 +1179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="116" selection-end-column="52" />
+        <state relative-caret-position="410">
+          <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
