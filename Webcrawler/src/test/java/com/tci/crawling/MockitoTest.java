@@ -114,7 +114,7 @@ public class MockitoTest {
 
         assertEquals(null, mockedMusic.getArtist());
 
-        assertEquals(null, mockedMusic.getArtist());
+        assertEquals(null, mockedMusic.getName();
     }
 
 

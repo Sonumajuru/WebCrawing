@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43e2535-d889-44d4-af04-63b9b5cbc097" name="Default" comment="" />
+    <list default="true" id="f43e2535-d889-44d4-af04-63b9b5cbc097" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -76,8 +78,8 @@
       <file leaf-file-name="MockitoTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="114" column="52" lean-forward="true" selection-start-line="114" selection-start-column="52" selection-end-line="114" selection-end-column="52" />
+            <state relative-caret-position="410">
+              <caret line="116" column="52" selection-start-line="116" selection-start-column="52" selection-end-line="116" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
@@ -807,7 +809,7 @@
       <workItem from="1528018923067" duration="12134000" />
       <workItem from="1528629362827" duration="10000" />
       <workItem from="1529245256933" duration="2911000" />
-      <workItem from="1529252680747" duration="472000" />
+      <workItem from="1529252680747" duration="555000" />
     </task>
     <servers />
   </component>
@@ -844,7 +846,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106929000" />
+    <option name="totallyTimeSpent" value="107012000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -857,7 +859,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32889965" />
@@ -1133,8 +1134,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/tci/crawling/MockitoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="114" column="52" lean-forward="true" selection-start-line="114" selection-start-column="52" selection-end-line="114" selection-end-column="52" />
+        <state relative-caret-position="410">
+          <caret line="116" column="52" selection-start-line="116" selection-start-column="52" selection-end-line="116" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#shouldAllowToRetrieve_aSearchForAParticularBook#0;class#MockitoTest#0" />
